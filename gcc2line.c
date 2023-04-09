@@ -1,3 +1,4 @@
+// torry2 plagiarised or some shit ;p
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
